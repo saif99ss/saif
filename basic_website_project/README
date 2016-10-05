@@ -1,0 +1,47 @@
+Project 1
+
+The project is due on Monday by 6:59 PM. It should be available in one branch (one branch should be submitted).
+
+We will divide the class into two teams:
+Team Samer: Ali, Khattab, Saif, and Louy
+Team Moe: Mustafa, Fidan, Juju, and Noor
+
+The project is to build a website, that will have the following features:
+
+1. Four pages:
+    1.1. Home pages:
+        1.1.1. There must be a header, footer, and a navigational menu to the three pages.
+        1.1.2. There should be at least:
+            1.1.2.1. three images.
+            1.1.2.2. two tables.
+            1.1.2.3. two lists (one ordered and one unordered).
+            1.1.2.4. two paragraphs.
+            1.1.2.5. two id and two class styles.
+    1.2. Gallery page:
+        1.2.1. There will be two sections on the same page, one is a gallery for images, and one for videos. Choose at least three images, and three videos.
+        1.2.2. There will be next and previous buttons that will allow you to navigate through the images and videos.
+    1.3. Contact Us page:
+        1.3.1. Although the form won't do anything (for now), we will create a form that collects the following information:
+            1.3.1.1. First Name
+            1.3.1.2. Last Name
+            1.3.1.3. Email
+            1.3.1.4. At least one question that has radio buttons
+            1.3.1.5. At least one question that has check boxes
+            1.3.1.6. At least one question that has a drop down
+        1.3.2. The form must have at least four rules for validation.
+    1.4. Calculator page:
+        1.4.1. This page will have buttons that will show numbers and operations. The user can use this as a calculator online.
+        
+2. The two teams will have to meet for 30-60 minutes on a conference call for AT LEAST the following times:
+    2.1. Introductory meeting to:
+        2.1.1. go over the requirements of the project to understand the tasks requested.
+        2.1.2. divide the tasks among the team members.
+        2.1.3. set up progress criteria for next meeting.
+        2.1.4. agree on meeting times for progress meetings.
+    2.2. Two progress meetings.
+
+3. Samer and Moe will attend every meeting, silently in the background, and will only intervene if people are going off topic, have questions, or even to challenge the team with additional criteria or features.
+
+4. This is a competition between the groups, and the best project will win.
+    
+
