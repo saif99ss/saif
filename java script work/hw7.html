@@ -1,0 +1,86 @@
+<html>
+You are given an array of elements [17, 24, 4, 26, 19, 30, 2, 66, 40]. Print out all odd number.
+
+var a=[17,24,4,26,19,30,2,66,40]
+var odd=a[0]
+ var positione=0
+ var length_of_array= a length
+ while[position<length_of_array]
+ if (a[position]>odd)
+ odd= a{position}
+ end of it 
+ end of while 
+ print odd= [17,19]
+</html>
+Modify the pseudocode in 1, and also print the minimum of such odd numbers.
+
+var a=[17,24,4,26,19,30,2,66,40]
+var odd= [17.19]
+if (a[position]>odd)
+odd= a (position)
+end of it 
+end of while 
+print minimum=[17]
+
+Modify the pseudocode in 2 such that the code that determines whether the number is odd or even should be in a separate function called: isOdd, and it should return true if it is odd, and false if it is even.
+
+var isEven = function(number) {
+  var a=[17,24,4,26,19,30,2,66,40]
+var odd= [17.19]
+if (a[position]>odd)
+odd= a (position)
+end of it 
+end of while 
+print minimum=[17]
+  if (((17,19/2) - Math.floor(24,26,30,2,66,40/2)) === 0) {return true;} else {return false;};
+};
+
+ Modify the pseudocode in 3 so the program prints two lists, a list of odd numbers with the minimum number, and a list of even numbers with the minimum even number.
+
+function even() {
+  var a=[2]
+  for (i = 0; i < 2; i += 2)
+function odd() {
+var a={17}
+  for (i = 1; i < 17; i += 2)
+}
+even();
+
+Convert the program in 4 to JavaScript.
+
+function (odd)   
+  var =odd 
+  var ={17}
+  print odd
+ 
+function (even)
+{  
+  var = {even} 
+  var ={2}
+  print even 
+  
+  Modify the program in 5, and add two new functions. One that will sort the elements, and the second one will reverse the elements
+before printing (so before printing the list of odd numbers for example, sort then reverse then print).
+
+  
+  var a = [17,24,4,26,19,30,2,66,40];
+(a).sort();            // Sorts the elements 
+(a).reverse();         // Reverses the order of the elements
+
+
+
+ Create a linux command (alias it) that will print all the commands from history, along with their date and time, as long as the length of the command does not exceed 6 characters.
+
+ HISTTIMEFORMAT="%d/%m/%y %T "
+saif99s:~ $ history
+    1  03/10/16 19:45:28 history
+    2  03/10/16 19:45:33 pwd
+    3  03/10/16 19:45:41 li
+    4  03/10/16 19:45:46 git add
+    5  03/10/16 19:45:48 cd
+    6  03/10/16 19:45:52 HISTTIMEFORMAT="%d/%m/%y %T "
+    7  03/10/16 19:45:57 history  
+    
+     Write ONE piped command that will print out the number of lines that have the word "function" in them, from www.google.com. This will essentially show you the number of lines that have JavaScript functions. Now use of ; or non-piped approach.
+
+    awk '{print $function;}' www.google.com
